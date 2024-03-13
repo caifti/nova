@@ -21,7 +21,7 @@ testrepository>=0.0.18
 testresources>=0.2.4
 testtools>=1.4.0
 tempest-lib>=0.10.0
-bandit>=0.13.2
+bandit>=1.7.7
 openstackdocstheme>=1.0.3
 
 # vmwareapi driver specific dependencies
